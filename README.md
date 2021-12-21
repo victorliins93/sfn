@@ -1,19 +1,3 @@
-
-
-
-
-<h2> Linguagem e frameworks </h2>
-    * Java
-    * Spring
-    * Heroku
-
-<h2> Build</h2>
-    * Clone o projeto para sua máquina
-    *
-
-
-
-
 # Back-end Challenge 2021- Space Flight News
 
 <p>API desenvolvida para o desafio Back-end Challenge 2021 by coodesh, com intuito de apresentar artigos da Space Flight News</p>
