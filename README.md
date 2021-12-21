@@ -10,7 +10,7 @@
 * Rode o comando: docker-compose up --build -d
 
 ## Desenvolvido com
-Mencionar os frameworks e ferramentes utilizados para se desenvolver essa aplicação. Como por exemplo:
+
 * [Java](https://www.java.com/pt-BR/)
 * [Spring](https://spring.io/)
 * [Heroku](https://heroku.com/)
@@ -21,6 +21,6 @@ Mencionar os frameworks e ferramentes utilizados para se desenvolver essa aplica
 
 ## Agradecimentos
 
-* This is a challenge by Coodesh (https://coodesh.com/)
+* This is a challenge by [Coodesh](https://coodesh.com/)
 
 
