@@ -1,0 +1,13 @@
+version: '3'
+services:
+  sfn_api:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    image: sfn_api
+    ports:
+      - '8080:8080'
+    environment:
+      - TZ=America/Recife
+
+
